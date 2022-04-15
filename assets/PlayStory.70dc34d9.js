@@ -1,0 +1,1 @@
+import{o as s,c as o,a as t,d as r}from"./index.176f91dd.js";const a={class:"flex h-screen overflow-auto"},c=["src"],d={setup(l){const e=new URL("/assets/PlayStory.84ad8886.html",self.location).href;return(n,_)=>(s(),o("div",a,[t("iframe",{class:"grow",src:r(e)},null,8,c)]))}};export{d as default};
