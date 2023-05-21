@@ -1,10 +1,11 @@
 {
   "name": "Tweezel",
   "short_name":"TweezeL",
-  "theme_color":"#000000",
+  "description":"TweezeL Is A Free Tools For Creating Twine Or Text-Based Games On Any Device.",
+  "theme_color":"#1C4E80",
   "start_url":"/",
   "display":"standalone",
-  "background_color":"#000000",
+  "background_color":"#202020",
   "icons": [
    {
     "src": "./img/icons/android-icon-36x36.png",

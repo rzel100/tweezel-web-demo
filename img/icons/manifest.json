@@ -1,5 +1,6 @@
 {
  "name": "Tweezel",
+ "description":"TweezeL Is A Free Tools For Creating Twine Or Text-Based Games On Any Device.",
  "short_name":"TweezeL",
  "theme_color":"#000000",
  "start_url":"/",
